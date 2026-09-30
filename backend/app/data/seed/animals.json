@@ -1,0 +1,2024 @@
+[
+  {
+    "id": "african_lion",
+    "common_name": "African Lion",
+    "scientific_name": "Panthera leo",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Apex savanna predator that hunts cooperatively in prides.",
+    "avg_weight_kg": 190,
+    "max_weight_kg": 250,
+    "avg_length_m": 2.5,
+    "top_speed_kmh": 80,
+    "bite_force_psi": 650,
+    "natural_weapons": [
+      "retractable claws",
+      "canine teeth"
+    ],
+    "habitats": [
+      "savanna",
+      "open_plains"
+    ],
+    "adaptations": [
+      "plains_adapted"
+    ],
+    "combat_attributes": {
+      "size": 62.4,
+      "strength": 78.0,
+      "speed": 73.5,
+      "agility": 72.0,
+      "defense": 55.0,
+      "weapon": 75.0,
+      "endurance": 55.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "grizzly_bear",
+    "common_name": "Grizzly Bear",
+    "scientific_name": "Ursus arctos horribilis",
+    "category": "mammal",
+    "diet": "omnivore",
+    "fighting_style": "power_brawler",
+    "description": "Massive, immensely powerful omnivore capable of short, fast charges.",
+    "avg_weight_kg": 300,
+    "max_weight_kg": 450,
+    "avg_length_m": 2.0,
+    "top_speed_kmh": 56,
+    "bite_force_psi": 1200,
+    "natural_weapons": [
+      "claws (10cm)",
+      "canine teeth",
+      "powerful forelimbs"
+    ],
+    "habitats": [
+      "forest",
+      "mountain"
+    ],
+    "adaptations": [
+      "cold_resistant"
+    ],
+    "combat_attributes": {
+      "size": 67.7,
+      "strength": 92.0,
+      "speed": 52.4,
+      "agility": 48.0,
+      "defense": 78.0,
+      "weapon": 82.0,
+      "endurance": 70.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "siberian_tiger",
+    "common_name": "Siberian Tiger",
+    "scientific_name": "Panthera tigris altaica",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Largest wild cat; solitary ambush hunter with exceptional forelimb strength.",
+    "avg_weight_kg": 220,
+    "max_weight_kg": 320,
+    "avg_length_m": 3.3,
+    "top_speed_kmh": 60,
+    "bite_force_psi": 1050,
+    "natural_weapons": [
+      "retractable claws",
+      "canine teeth"
+    ],
+    "habitats": [
+      "forest"
+    ],
+    "adaptations": [
+      "cold_resistant",
+      "camouflage"
+    ],
+    "combat_attributes": {
+      "size": 64.1,
+      "strength": 88.0,
+      "speed": 55.9,
+      "agility": 78.0,
+      "defense": 58.0,
+      "weapon": 85.0,
+      "endurance": 52.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "nile_crocodile",
+    "common_name": "Nile Crocodile",
+    "scientific_name": "Crocodylus niloticus",
+    "category": "reptile",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Ambush predator with the strongest documented bite force of any living animal.",
+    "avg_weight_kg": 410,
+    "max_weight_kg": 750,
+    "avg_length_m": 4.5,
+    "top_speed_kmh": 30,
+    "bite_force_psi": 5000,
+    "natural_weapons": [
+      "bite (strongest of any living animal)",
+      "death roll"
+    ],
+    "habitats": [
+      "forest",
+      "savanna"
+    ],
+    "adaptations": [
+      "semi_aquatic",
+      "ambush_adapted"
+    ],
+    "combat_attributes": {
+      "size": 71.3,
+      "strength": 85.0,
+      "speed": 29.4,
+      "agility": 35.0,
+      "defense": 88.0,
+      "weapon": 97.0,
+      "endurance": 60.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "hippopotamus",
+    "common_name": "Hippopotamus",
+    "scientific_name": "Hippopotamus amphibius",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "power_brawler",
+    "description": "One of Africa's most dangerous large mammals; aggressive and surprisingly fast in short bursts.",
+    "avg_weight_kg": 1500,
+    "max_weight_kg": 3200,
+    "avg_length_m": 3.5,
+    "top_speed_kmh": 30,
+    "bite_force_psi": 1800,
+    "natural_weapons": [
+      "massive canine tusks",
+      "bite"
+    ],
+    "habitats": [
+      "savanna"
+    ],
+    "adaptations": [
+      "semi_aquatic"
+    ],
+    "combat_attributes": {
+      "size": 86.2,
+      "strength": 90.0,
+      "speed": 29.4,
+      "agility": 30.0,
+      "defense": 90.0,
+      "weapon": 88.0,
+      "endurance": 65.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "african_elephant",
+    "common_name": "African Elephant",
+    "scientific_name": "Loxodonta africana",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "power_brawler",
+    "description": "Largest living land animal; tusks and mass make it formidable despite limited agility.",
+    "avg_weight_kg": 5000,
+    "max_weight_kg": 10000,
+    "avg_length_m": 6.0,
+    "top_speed_kmh": 25,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "tusks",
+      "trunk",
+      "sheer mass"
+    ],
+    "habitats": [
+      "savanna",
+      "open_plains"
+    ],
+    "adaptations": [
+      "plains_adapted"
+    ],
+    "combat_attributes": {
+      "size": 100.0,
+      "strength": 97.0,
+      "speed": 25.0,
+      "agility": 25.0,
+      "defense": 92.0,
+      "weapon": 80.0,
+      "endurance": 75.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "white_rhino",
+    "common_name": "White Rhinoceros",
+    "scientific_name": "Ceratotherium simum",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "power_brawler",
+    "description": "Heavily armored herbivore capable of surprisingly fast charges.",
+    "avg_weight_kg": 2300,
+    "max_weight_kg": 3600,
+    "avg_length_m": 4.0,
+    "top_speed_kmh": 50,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "horn",
+      "sheer mass"
+    ],
+    "habitats": [
+      "savanna",
+      "open_plains"
+    ],
+    "adaptations": [
+      "plains_adapted"
+    ],
+    "combat_attributes": {
+      "size": 91.1,
+      "strength": 88.0,
+      "speed": 47.1,
+      "agility": 30.0,
+      "defense": 90.0,
+      "weapon": 78.0,
+      "endurance": 60.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "cape_buffalo",
+    "common_name": "Cape Buffalo",
+    "scientific_name": "Syncerus caffer",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "herd_defender",
+    "description": "Notoriously aggressive and unpredictable; known to fight off lion prides.",
+    "avg_weight_kg": 700,
+    "max_weight_kg": 900,
+    "avg_length_m": 3.0,
+    "top_speed_kmh": 57,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "curved horns",
+      "boss (fused horn base)"
+    ],
+    "habitats": [
+      "savanna",
+      "open_plains"
+    ],
+    "adaptations": [
+      "herd_animal",
+      "plains_adapted"
+    ],
+    "combat_attributes": {
+      "size": 77.4,
+      "strength": 80.0,
+      "speed": 53.2,
+      "agility": 45.0,
+      "defense": 82.0,
+      "weapon": 75.0,
+      "endurance": 68.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "gray_wolf",
+    "common_name": "Gray Wolf",
+    "scientific_name": "Canis lupus",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "pursuit_predator",
+    "description": "Cooperative pack hunter with exceptional stamina for long chases.",
+    "avg_weight_kg": 40,
+    "max_weight_kg": 80,
+    "avg_length_m": 1.6,
+    "top_speed_kmh": 60,
+    "bite_force_psi": 400,
+    "natural_weapons": [
+      "canine teeth",
+      "powerful jaws"
+    ],
+    "habitats": [
+      "forest",
+      "mountain",
+      "open_plains"
+    ],
+    "adaptations": [
+      "pursuit_predator",
+      "cold_resistant"
+    ],
+    "combat_attributes": {
+      "size": 44.7,
+      "strength": 55.0,
+      "speed": 55.9,
+      "agility": 68.0,
+      "defense": 40.0,
+      "weapon": 58.0,
+      "endurance": 82.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "spotted_hyena",
+    "common_name": "Spotted Hyena",
+    "scientific_name": "Crocuta crocuta",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "pursuit_predator",
+    "description": "One of the strongest bites relative to size of any mammal; persistent and durable.",
+    "avg_weight_kg": 55,
+    "max_weight_kg": 90,
+    "avg_length_m": 1.5,
+    "top_speed_kmh": 60,
+    "bite_force_psi": 1100,
+    "natural_weapons": [
+      "bone-crushing bite"
+    ],
+    "habitats": [
+      "savanna",
+      "open_plains"
+    ],
+    "adaptations": [
+      "pursuit_predator"
+    ],
+    "combat_attributes": {
+      "size": 48.3,
+      "strength": 62.0,
+      "speed": 55.9,
+      "agility": 58.0,
+      "defense": 48.0,
+      "weapon": 70.0,
+      "endurance": 78.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "cheetah",
+    "common_name": "Cheetah",
+    "scientific_name": "Acinonyx jubatus",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "pursuit_predator",
+    "description": "Fastest land animal, built entirely for a short, explosive sprint rather than a fight.",
+    "avg_weight_kg": 55,
+    "max_weight_kg": 72,
+    "avg_length_m": 1.4,
+    "top_speed_kmh": 110,
+    "bite_force_psi": 475,
+    "natural_weapons": [
+      "semi-retractable claws",
+      "bite"
+    ],
+    "habitats": [
+      "savanna",
+      "open_plains"
+    ],
+    "adaptations": [
+      "pursuit_predator",
+      "plains_adapted"
+    ],
+    "combat_attributes": {
+      "size": 48.3,
+      "strength": 42.0,
+      "speed": 100.0,
+      "agility": 90.0,
+      "defense": 25.0,
+      "weapon": 45.0,
+      "endurance": 30.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "leopard",
+    "common_name": "Leopard",
+    "scientific_name": "Panthera pardus",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Exceptionally strong pound-for-pound climber and ambush specialist.",
+    "avg_weight_kg": 55,
+    "max_weight_kg": 90,
+    "avg_length_m": 1.7,
+    "top_speed_kmh": 58,
+    "bite_force_psi": 300,
+    "natural_weapons": [
+      "claws",
+      "canine teeth"
+    ],
+    "habitats": [
+      "forest",
+      "savanna",
+      "mountain"
+    ],
+    "adaptations": [
+      "camouflage",
+      "ambush_adapted"
+    ],
+    "combat_attributes": {
+      "size": 48.3,
+      "strength": 60.0,
+      "speed": 54.1,
+      "agility": 85.0,
+      "defense": 45.0,
+      "weapon": 62.0,
+      "endurance": 50.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "jaguar",
+    "common_name": "Jaguar",
+    "scientific_name": "Panthera onca",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Has the strongest bite force relative to size of any big cat; kills by piercing skulls.",
+    "avg_weight_kg": 90,
+    "max_weight_kg": 135,
+    "avg_length_m": 1.8,
+    "top_speed_kmh": 80,
+    "bite_force_psi": 1500,
+    "natural_weapons": [
+      "claws",
+      "skull-piercing bite"
+    ],
+    "habitats": [
+      "forest"
+    ],
+    "adaptations": [
+      "semi_aquatic",
+      "ambush_adapted"
+    ],
+    "combat_attributes": {
+      "size": 53.9,
+      "strength": 75.0,
+      "speed": 73.5,
+      "agility": 72.0,
+      "defense": 55.0,
+      "weapon": 88.0,
+      "endurance": 52.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "polar_bear",
+    "common_name": "Polar Bear",
+    "scientific_name": "Ursus maritimus",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "power_brawler",
+    "description": "Largest land carnivore, built for cold and immensely powerful strikes.",
+    "avg_weight_kg": 450,
+    "max_weight_kg": 700,
+    "avg_length_m": 2.5,
+    "top_speed_kmh": 40,
+    "bite_force_psi": 1200,
+    "natural_weapons": [
+      "claws",
+      "canine teeth",
+      "powerful forelimbs"
+    ],
+    "habitats": [
+      "arctic"
+    ],
+    "adaptations": [
+      "cold_resistant",
+      "thick_fur",
+      "semi_aquatic"
+    ],
+    "combat_attributes": {
+      "size": 72.3,
+      "strength": 93.0,
+      "speed": 38.2,
+      "agility": 42.0,
+      "defense": 75.0,
+      "weapon": 83.0,
+      "endurance": 68.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "komodo_dragon",
+    "common_name": "Komodo Dragon",
+    "scientific_name": "Varanus komodoensis",
+    "category": "reptile",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Largest living lizard; venomous bite causes shock and prevents clotting.",
+    "avg_weight_kg": 70,
+    "max_weight_kg": 166,
+    "avg_length_m": 2.6,
+    "top_speed_kmh": 20,
+    "bite_force_psi": 600,
+    "natural_weapons": [
+      "serrated teeth",
+      "venom glands"
+    ],
+    "habitats": [
+      "desert",
+      "forest"
+    ],
+    "adaptations": [
+      "heat_tolerant",
+      "ambush_adapted"
+    ],
+    "combat_attributes": {
+      "size": 51.1,
+      "strength": 58.0,
+      "speed": 20.6,
+      "agility": 35.0,
+      "defense": 60.0,
+      "weapon": 68.0,
+      "endurance": 48.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "gorilla",
+    "common_name": "Eastern Gorilla",
+    "scientific_name": "Gorilla beringei",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "power_brawler",
+    "description": "Estimated several times stronger than an adult human pound-for-pound.",
+    "avg_weight_kg": 160,
+    "max_weight_kg": 220,
+    "avg_length_m": 1.7,
+    "top_speed_kmh": 32,
+    "bite_force_psi": 1300,
+    "natural_weapons": [
+      "immense arm strength",
+      "bite"
+    ],
+    "habitats": [
+      "forest"
+    ],
+    "adaptations": [],
+    "combat_attributes": {
+      "size": 60.5,
+      "strength": 90.0,
+      "speed": 31.2,
+      "agility": 45.0,
+      "defense": 60.0,
+      "weapon": 65.0,
+      "endurance": 55.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "chimpanzee",
+    "common_name": "Chimpanzee",
+    "scientific_name": "Pan troglodytes",
+    "category": "mammal",
+    "diet": "omnivore",
+    "fighting_style": "agile_striker",
+    "description": "Pound-for-pound far stronger than humans; highly agile in trees and on ground.",
+    "avg_weight_kg": 50,
+    "max_weight_kg": 70,
+    "avg_length_m": 1.2,
+    "top_speed_kmh": 32,
+    "bite_force_psi": 500,
+    "natural_weapons": [
+      "canine teeth",
+      "grip strength"
+    ],
+    "habitats": [
+      "forest"
+    ],
+    "adaptations": [
+      "arboreal"
+    ],
+    "combat_attributes": {
+      "size": 47.3,
+      "strength": 68.0,
+      "speed": 31.2,
+      "agility": 72.0,
+      "defense": 35.0,
+      "weapon": 45.0,
+      "endurance": 50.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "red_kangaroo",
+    "common_name": "Red Kangaroo",
+    "scientific_name": "Osphranter rufus",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "agile_striker",
+    "description": "Kicks capable of disemboweling; known to box with forelimbs when threatened.",
+    "avg_weight_kg": 55,
+    "max_weight_kg": 90,
+    "avg_length_m": 1.6,
+    "top_speed_kmh": 70,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "powerful hind-leg kicks",
+      "sharp claws"
+    ],
+    "habitats": [
+      "open_plains",
+      "desert"
+    ],
+    "adaptations": [
+      "desert_adapted",
+      "heat_tolerant"
+    ],
+    "combat_attributes": {
+      "size": 48.3,
+      "strength": 55.0,
+      "speed": 64.7,
+      "agility": 65.0,
+      "defense": 40.0,
+      "weapon": 58.0,
+      "endurance": 60.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "ostrich",
+    "common_name": "Common Ostrich",
+    "scientific_name": "Struthio camelus",
+    "category": "bird",
+    "diet": "omnivore",
+    "fighting_style": "agile_striker",
+    "description": "Largest living bird; a single kick can be lethal to a large predator.",
+    "avg_weight_kg": 115,
+    "max_weight_kg": 156,
+    "avg_length_m": 2.7,
+    "top_speed_kmh": 70,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "kicks (can kill a lion)",
+      "clawed toes"
+    ],
+    "habitats": [
+      "open_plains",
+      "savanna"
+    ],
+    "adaptations": [
+      "plains_adapted"
+    ],
+    "combat_attributes": {
+      "size": 56.7,
+      "strength": 50.0,
+      "speed": 64.7,
+      "agility": 70.0,
+      "defense": 35.0,
+      "weapon": 55.0,
+      "endurance": 70.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "wolverine",
+    "common_name": "Wolverine",
+    "scientific_name": "Gulo gulo",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "power_brawler",
+    "description": "Disproportionately fierce and tenacious for its size; known to fend off much larger predators.",
+    "avg_weight_kg": 15,
+    "max_weight_kg": 32,
+    "avg_length_m": 1.0,
+    "top_speed_kmh": 48,
+    "bite_force_psi": 200,
+    "natural_weapons": [
+      "claws",
+      "crushing bite"
+    ],
+    "habitats": [
+      "forest",
+      "arctic",
+      "mountain"
+    ],
+    "adaptations": [
+      "cold_resistant",
+      "thick_fur"
+    ],
+    "combat_attributes": {
+      "size": 33.9,
+      "strength": 55.0,
+      "speed": 45.3,
+      "agility": 55.0,
+      "defense": 55.0,
+      "weapon": 58.0,
+      "endurance": 75.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "honey_badger",
+    "common_name": "Honey Badger",
+    "scientific_name": "Mellivora capensis",
+    "category": "mammal",
+    "diet": "omnivore",
+    "fighting_style": "power_brawler",
+    "description": "Loose, thick skin and sheer fearlessness let it survive attacks that would down larger animals.",
+    "avg_weight_kg": 10,
+    "max_weight_kg": 16,
+    "avg_length_m": 0.75,
+    "top_speed_kmh": 30,
+    "bite_force_psi": 150,
+    "natural_weapons": [
+      "claws",
+      "bite"
+    ],
+    "habitats": [
+      "savanna",
+      "desert"
+    ],
+    "adaptations": [
+      "desert_adapted"
+    ],
+    "combat_attributes": {
+      "size": 29.6,
+      "strength": 40.0,
+      "speed": 29.4,
+      "agility": 55.0,
+      "defense": 68.0,
+      "weapon": 48.0,
+      "endurance": 70.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "american_bison",
+    "common_name": "American Bison",
+    "scientific_name": "Bison bison",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "herd_defender",
+    "description": "Massive herd animal capable of fast charges despite its bulk.",
+    "avg_weight_kg": 900,
+    "max_weight_kg": 1270,
+    "avg_length_m": 3.8,
+    "top_speed_kmh": 55,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "horns",
+      "sheer mass"
+    ],
+    "habitats": [
+      "open_plains",
+      "savanna"
+    ],
+    "adaptations": [
+      "herd_animal",
+      "cold_resistant",
+      "plains_adapted"
+    ],
+    "combat_attributes": {
+      "size": 80.3,
+      "strength": 82.0,
+      "speed": 51.5,
+      "agility": 40.0,
+      "defense": 80.0,
+      "weapon": 65.0,
+      "endurance": 65.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "moose",
+    "common_name": "Moose",
+    "scientific_name": "Alces alces",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "herd_defender",
+    "description": "Largest deer species; capable of powerful, fast kicks with front hooves.",
+    "avg_weight_kg": 500,
+    "max_weight_kg": 700,
+    "avg_length_m": 2.8,
+    "top_speed_kmh": 55,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "antlers",
+      "sharp hooves"
+    ],
+    "habitats": [
+      "forest",
+      "arctic"
+    ],
+    "adaptations": [
+      "cold_resistant"
+    ],
+    "combat_attributes": {
+      "size": 73.5,
+      "strength": 75.0,
+      "speed": 51.5,
+      "agility": 42.0,
+      "defense": 65.0,
+      "weapon": 68.0,
+      "endurance": 60.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "musk_ox",
+    "common_name": "Musk Ox",
+    "scientific_name": "Ovibos moschatus",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "herd_defender",
+    "description": "Forms defensive circles against predators; thick coat and horns suited to Arctic combat.",
+    "avg_weight_kg": 285,
+    "max_weight_kg": 410,
+    "avg_length_m": 2.3,
+    "top_speed_kmh": 60,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "curved horns",
+      "boss"
+    ],
+    "habitats": [
+      "arctic"
+    ],
+    "adaptations": [
+      "cold_resistant",
+      "thick_fur",
+      "herd_animal"
+    ],
+    "combat_attributes": {
+      "size": 67.1,
+      "strength": 70.0,
+      "speed": 55.9,
+      "agility": 35.0,
+      "defense": 78.0,
+      "weapon": 62.0,
+      "endurance": 62.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "snow_leopard",
+    "common_name": "Snow Leopard",
+    "scientific_name": "Panthera uncia",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Exceptional climber and jumper, adapted to steep, cold, high-altitude terrain.",
+    "avg_weight_kg": 45,
+    "max_weight_kg": 55,
+    "avg_length_m": 1.3,
+    "top_speed_kmh": 55,
+    "bite_force_psi": 300,
+    "natural_weapons": [
+      "claws",
+      "bite"
+    ],
+    "habitats": [
+      "mountain",
+      "arctic"
+    ],
+    "adaptations": [
+      "mountain_adapted",
+      "sure_footed",
+      "cold_resistant",
+      "camouflage"
+    ],
+    "combat_attributes": {
+      "size": 46.1,
+      "strength": 55.0,
+      "speed": 51.5,
+      "agility": 82.0,
+      "defense": 42.0,
+      "weapon": 55.0,
+      "endurance": 48.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "mountain_goat",
+    "common_name": "Mountain Goat",
+    "scientific_name": "Oreamnos americanus",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "herd_defender",
+    "description": "Unmatched agility on steep, treacherous mountain terrain.",
+    "avg_weight_kg": 65,
+    "max_weight_kg": 140,
+    "avg_length_m": 1.5,
+    "top_speed_kmh": 48,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "sharp horns"
+    ],
+    "habitats": [
+      "mountain"
+    ],
+    "adaptations": [
+      "sure_footed",
+      "mountain_adapted",
+      "herd_animal"
+    ],
+    "combat_attributes": {
+      "size": 50.2,
+      "strength": 45.0,
+      "speed": 45.3,
+      "agility": 78.0,
+      "defense": 45.0,
+      "weapon": 48.0,
+      "endurance": 58.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "bighorn_sheep",
+    "common_name": "Bighorn Sheep",
+    "scientific_name": "Ovis canadensis",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "herd_defender",
+    "description": "Rams that headbutt at high speed with reinforced double-layered skulls.",
+    "avg_weight_kg": 100,
+    "max_weight_kg": 143,
+    "avg_length_m": 1.8,
+    "top_speed_kmh": 50,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "massive curled horns (headbutt)"
+    ],
+    "habitats": [
+      "mountain"
+    ],
+    "adaptations": [
+      "sure_footed",
+      "herd_animal"
+    ],
+    "combat_attributes": {
+      "size": 55.1,
+      "strength": 58.0,
+      "speed": 47.1,
+      "agility": 68.0,
+      "defense": 55.0,
+      "weapon": 55.0,
+      "endurance": 55.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "timber_rattlesnake",
+    "common_name": "Timber Rattlesnake",
+    "scientific_name": "Crotalus horridus",
+    "category": "reptile",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Relies almost entirely on camouflage, ambush, and venom rather than physical combat.",
+    "avg_weight_kg": 1.0,
+    "max_weight_kg": 2.5,
+    "avg_length_m": 1.2,
+    "top_speed_kmh": 8,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "hemotoxic venom",
+      "fangs"
+    ],
+    "habitats": [
+      "desert",
+      "forest"
+    ],
+    "adaptations": [
+      "desert_adapted",
+      "camouflage"
+    ],
+    "combat_attributes": {
+      "size": 10.0,
+      "strength": 15.0,
+      "speed": 10.0,
+      "agility": 45.0,
+      "defense": 20.0,
+      "weapon": 62.0,
+      "endurance": 35.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "king_cobra",
+    "common_name": "King Cobra",
+    "scientific_name": "Ophiophagus hannah",
+    "category": "reptile",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "World's longest venomous snake; a single bite delivers enough venom to kill an elephant.",
+    "avg_weight_kg": 6,
+    "max_weight_kg": 12,
+    "avg_length_m": 4.0,
+    "top_speed_kmh": 12,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "neurotoxic venom",
+      "fangs"
+    ],
+    "habitats": [
+      "forest"
+    ],
+    "adaptations": [
+      "camouflage"
+    ],
+    "combat_attributes": {
+      "size": 24.4,
+      "strength": 25.0,
+      "speed": 13.5,
+      "agility": 55.0,
+      "defense": 25.0,
+      "weapon": 72.0,
+      "endurance": 40.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "saltwater_crocodile",
+    "common_name": "Saltwater Crocodile",
+    "scientific_name": "Crocodylus porosus",
+    "category": "reptile",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Largest living reptile and apex predator of coastal and estuarine waters.",
+    "avg_weight_kg": 450,
+    "max_weight_kg": 1000,
+    "avg_length_m": 5.2,
+    "top_speed_kmh": 29,
+    "bite_force_psi": 3700,
+    "natural_weapons": [
+      "bite",
+      "death roll"
+    ],
+    "habitats": [
+      "ocean",
+      "forest"
+    ],
+    "adaptations": [
+      "semi_aquatic",
+      "ambush_adapted"
+    ],
+    "combat_attributes": {
+      "size": 72.3,
+      "strength": 88.0,
+      "speed": 28.5,
+      "agility": 32.0,
+      "defense": 90.0,
+      "weapon": 93.0,
+      "endurance": 58.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "american_alligator",
+    "common_name": "American Alligator",
+    "scientific_name": "Alligator mississippiensis",
+    "category": "reptile",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Powerful ambush predator of southeastern US wetlands.",
+    "avg_weight_kg": 360,
+    "max_weight_kg": 500,
+    "avg_length_m": 4.0,
+    "top_speed_kmh": 20,
+    "bite_force_psi": 2900,
+    "natural_weapons": [
+      "bite",
+      "death roll"
+    ],
+    "habitats": [
+      "forest"
+    ],
+    "adaptations": [
+      "semi_aquatic",
+      "ambush_adapted"
+    ],
+    "combat_attributes": {
+      "size": 69.8,
+      "strength": 80.0,
+      "speed": 20.6,
+      "agility": 30.0,
+      "defense": 85.0,
+      "weapon": 88.0,
+      "endurance": 55.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "great_white_shark",
+    "common_name": "Great White Shark",
+    "scientific_name": "Carcharodon carcharias",
+    "category": "fish",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Apex marine predator with one of the strongest bite forces (biomechanically estimated) of any fish.",
+    "avg_weight_kg": 900,
+    "max_weight_kg": 1900,
+    "avg_length_m": 4.6,
+    "top_speed_kmh": 56,
+    "bite_force_psi": 4000,
+    "natural_weapons": [
+      "serrated teeth",
+      "powerful bite"
+    ],
+    "habitats": [
+      "ocean"
+    ],
+    "adaptations": [
+      "aquatic"
+    ],
+    "combat_attributes": {
+      "size": 80.3,
+      "strength": 85.0,
+      "speed": 52.4,
+      "agility": 55.0,
+      "defense": 65.0,
+      "weapon": 90.0,
+      "endurance": 55.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "orca",
+    "common_name": "Orca (Killer Whale)",
+    "scientific_name": "Orcinus orca",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "pursuit_predator",
+    "description": "Apex ocean predator; fastest marine mammal, hunts cooperatively including great white sharks.",
+    "avg_weight_kg": 4500,
+    "max_weight_kg": 10000,
+    "avg_length_m": 7.0,
+    "top_speed_kmh": 56,
+    "bite_force_psi": 1000,
+    "natural_weapons": [
+      "teeth",
+      "body-ramming",
+      "tail strikes"
+    ],
+    "habitats": [
+      "ocean"
+    ],
+    "adaptations": [
+      "aquatic",
+      "pursuit_predator"
+    ],
+    "combat_attributes": {
+      "size": 98.8,
+      "strength": 95.0,
+      "speed": 52.4,
+      "agility": 60.0,
+      "defense": 80.0,
+      "weapon": 82.0,
+      "endurance": 80.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "bull_shark",
+    "common_name": "Bull Shark",
+    "scientific_name": "Carcharhinus leucas",
+    "category": "fish",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "Highest bite force relative to size of any shark studied; tolerates fresh water.",
+    "avg_weight_kg": 130,
+    "max_weight_kg": 315,
+    "avg_length_m": 2.4,
+    "top_speed_kmh": 40,
+    "bite_force_psi": 1350,
+    "natural_weapons": [
+      "bite"
+    ],
+    "habitats": [
+      "ocean"
+    ],
+    "adaptations": [
+      "aquatic",
+      "semi_aquatic"
+    ],
+    "combat_attributes": {
+      "size": 58.1,
+      "strength": 62.0,
+      "speed": 38.2,
+      "agility": 58.0,
+      "defense": 50.0,
+      "weapon": 72.0,
+      "endurance": 55.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "giant_pacific_octopus",
+    "common_name": "Giant Pacific Octopus",
+    "scientific_name": "Enteroctopus dofleini",
+    "category": "invertebrate",
+    "diet": "carnivore",
+    "fighting_style": "agile_striker",
+    "description": "Highly intelligent; relies on camouflage, flexibility, and grip strength over raw power.",
+    "avg_weight_kg": 15,
+    "max_weight_kg": 50,
+    "avg_length_m": 4.3,
+    "top_speed_kmh": 40,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "beak",
+      "venom",
+      "8 arms with suckers"
+    ],
+    "habitats": [
+      "ocean"
+    ],
+    "adaptations": [
+      "aquatic",
+      "camouflage"
+    ],
+    "combat_attributes": {
+      "size": 33.9,
+      "strength": 45.0,
+      "speed": 38.2,
+      "agility": 70.0,
+      "defense": 30.0,
+      "weapon": 45.0,
+      "endurance": 35.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "green_anaconda",
+    "common_name": "Green Anaconda",
+    "scientific_name": "Eunectes murinus",
+    "category": "reptile",
+    "diet": "carnivore",
+    "fighting_style": "ambush_predator",
+    "description": "One of the heaviest snakes in the world; kills by constriction rather than venom or bite.",
+    "avg_weight_kg": 55,
+    "max_weight_kg": 97,
+    "avg_length_m": 6.0,
+    "top_speed_kmh": 8,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "constriction"
+    ],
+    "habitats": [
+      "forest"
+    ],
+    "adaptations": [
+      "semi_aquatic",
+      "ambush_adapted"
+    ],
+    "combat_attributes": {
+      "size": 48.3,
+      "strength": 70.0,
+      "speed": 10.0,
+      "agility": 30.0,
+      "defense": 45.0,
+      "weapon": 68.0,
+      "endurance": 45.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "emu",
+    "common_name": "Emu",
+    "scientific_name": "Dromaius novaehollandiae",
+    "category": "bird",
+    "diet": "omnivore",
+    "fighting_style": "agile_striker",
+    "description": "Second-largest living bird; fast and capable of dangerous kicks.",
+    "avg_weight_kg": 37,
+    "max_weight_kg": 55,
+    "avg_length_m": 1.9,
+    "top_speed_kmh": 50,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "kicks",
+      "clawed toes"
+    ],
+    "habitats": [
+      "open_plains"
+    ],
+    "adaptations": [
+      "plains_adapted"
+    ],
+    "combat_attributes": {
+      "size": 43.9,
+      "strength": 38.0,
+      "speed": 47.1,
+      "agility": 60.0,
+      "defense": 30.0,
+      "weapon": 42.0,
+      "endurance": 65.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "wild_boar",
+    "common_name": "Wild Boar",
+    "scientific_name": "Sus scrofa",
+    "category": "mammal",
+    "diet": "omnivore",
+    "fighting_style": "power_brawler",
+    "description": "Aggressive, thick-hided, and fast for its bulk; tusks can inflict severe wounds.",
+    "avg_weight_kg": 90,
+    "max_weight_kg": 200,
+    "avg_length_m": 1.5,
+    "top_speed_kmh": 40,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "tusks"
+    ],
+    "habitats": [
+      "forest"
+    ],
+    "adaptations": [],
+    "combat_attributes": {
+      "size": 53.9,
+      "strength": 55.0,
+      "speed": 38.2,
+      "agility": 48.0,
+      "defense": 58.0,
+      "weapon": 60.0,
+      "endurance": 55.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "dingo",
+    "common_name": "Dingo",
+    "scientific_name": "Canis familiaris (dingo)",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "pursuit_predator",
+    "description": "Wild canid built for endurance hunting across open, arid terrain.",
+    "avg_weight_kg": 16,
+    "max_weight_kg": 24,
+    "avg_length_m": 1.2,
+    "top_speed_kmh": 60,
+    "bite_force_psi": 320,
+    "natural_weapons": [
+      "bite"
+    ],
+    "habitats": [
+      "desert",
+      "open_plains"
+    ],
+    "adaptations": [
+      "desert_adapted",
+      "pursuit_predator"
+    ],
+    "combat_attributes": {
+      "size": 34.6,
+      "strength": 38.0,
+      "speed": 55.9,
+      "agility": 62.0,
+      "defense": 32.0,
+      "weapon": 42.0,
+      "endurance": 68.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "african_wild_dog",
+    "common_name": "African Wild Dog",
+    "scientific_name": "Lycaon pictus",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "pursuit_predator",
+    "description": "Among the most successful pack hunters, with an extremely high hunt success rate.",
+    "avg_weight_kg": 25,
+    "max_weight_kg": 36,
+    "avg_length_m": 1.1,
+    "top_speed_kmh": 66,
+    "bite_force_psi": 317,
+    "natural_weapons": [
+      "bite"
+    ],
+    "habitats": [
+      "savanna",
+      "open_plains"
+    ],
+    "adaptations": [
+      "pursuit_predator",
+      "herd_animal"
+    ],
+    "combat_attributes": {
+      "size": 39.5,
+      "strength": 40.0,
+      "speed": 61.2,
+      "agility": 65.0,
+      "defense": 32.0,
+      "weapon": 45.0,
+      "endurance": 85.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "arctic_fox",
+    "common_name": "Arctic Fox",
+    "scientific_name": "Vulpes lagopus",
+    "category": "mammal",
+    "diet": "omnivore",
+    "fighting_style": "agile_striker",
+    "description": "Small, cold-adapted canid; survives extreme sub-zero temperatures.",
+    "avg_weight_kg": 3.5,
+    "max_weight_kg": 9,
+    "avg_length_m": 0.55,
+    "top_speed_kmh": 50,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "bite"
+    ],
+    "habitats": [
+      "arctic"
+    ],
+    "adaptations": [
+      "cold_resistant",
+      "thick_fur"
+    ],
+    "combat_attributes": {
+      "size": 19.3,
+      "strength": 15.0,
+      "speed": 47.1,
+      "agility": 55.0,
+      "defense": 20.0,
+      "weapon": 25.0,
+      "endurance": 55.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "red_fox",
+    "common_name": "Red Fox",
+    "scientific_name": "Vulpes vulpes",
+    "category": "mammal",
+    "diet": "omnivore",
+    "fighting_style": "agile_striker",
+    "description": "Small, quick, highly adaptable opportunist.",
+    "avg_weight_kg": 5.5,
+    "max_weight_kg": 14,
+    "avg_length_m": 0.65,
+    "top_speed_kmh": 50,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "bite"
+    ],
+    "habitats": [
+      "forest",
+      "open_plains"
+    ],
+    "adaptations": [
+      "camouflage"
+    ],
+    "combat_attributes": {
+      "size": 23.6,
+      "strength": 15.0,
+      "speed": 47.1,
+      "agility": 58.0,
+      "defense": 18.0,
+      "weapon": 25.0,
+      "endurance": 50.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "coyote",
+    "common_name": "Coyote",
+    "scientific_name": "Canis latrans",
+    "category": "mammal",
+    "diet": "omnivore",
+    "fighting_style": "pursuit_predator",
+    "description": "Adaptable, fast, opportunistic hunter of open terrain.",
+    "avg_weight_kg": 13,
+    "max_weight_kg": 20,
+    "avg_length_m": 1.1,
+    "top_speed_kmh": 64,
+    "bite_force_psi": 180,
+    "natural_weapons": [
+      "bite"
+    ],
+    "habitats": [
+      "open_plains",
+      "desert"
+    ],
+    "adaptations": [
+      "pursuit_predator",
+      "desert_adapted"
+    ],
+    "combat_attributes": {
+      "size": 32.4,
+      "strength": 28.0,
+      "speed": 59.4,
+      "agility": 62.0,
+      "defense": 25.0,
+      "weapon": 32.0,
+      "endurance": 68.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "tasmanian_devil",
+    "common_name": "Tasmanian Devil",
+    "scientific_name": "Sarcophilus harrisii",
+    "category": "mammal",
+    "diet": "carnivore",
+    "fighting_style": "power_brawler",
+    "description": "Small but has one of the strongest bite forces relative to size of any living mammal.",
+    "avg_weight_kg": 8,
+    "max_weight_kg": 12,
+    "avg_length_m": 0.65,
+    "top_speed_kmh": 25,
+    "bite_force_psi": 600,
+    "natural_weapons": [
+      "bite (strongest relative to body size of any mammal)"
+    ],
+    "habitats": [
+      "forest"
+    ],
+    "adaptations": [],
+    "combat_attributes": {
+      "size": 27.3,
+      "strength": 35.0,
+      "speed": 25.0,
+      "agility": 45.0,
+      "defense": 30.0,
+      "weapon": 55.0,
+      "endurance": 45.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "warthog",
+    "common_name": "Common Warthog",
+    "scientific_name": "Phacochoerus africanus",
+    "category": "mammal",
+    "diet": "omnivore",
+    "fighting_style": "power_brawler",
+    "description": "Surprisingly fast and willing to fight off predators with sharp tusks.",
+    "avg_weight_kg": 80,
+    "max_weight_kg": 150,
+    "avg_length_m": 1.4,
+    "top_speed_kmh": 48,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "tusks"
+    ],
+    "habitats": [
+      "savanna",
+      "desert"
+    ],
+    "adaptations": [
+      "desert_adapted"
+    ],
+    "combat_attributes": {
+      "size": 52.6,
+      "strength": 48.0,
+      "speed": 45.3,
+      "agility": 45.0,
+      "defense": 52.0,
+      "weapon": 55.0,
+      "endurance": 55.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "camel",
+    "common_name": "Dromedary Camel",
+    "scientific_name": "Camelus dromedarius",
+    "category": "mammal",
+    "diet": "herbivore",
+    "fighting_style": "herd_defender",
+    "description": "Exceptional desert endurance; can travel and function for days with minimal water.",
+    "avg_weight_kg": 500,
+    "max_weight_kg": 690,
+    "avg_length_m": 3.0,
+    "top_speed_kmh": 65,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "powerful kicks",
+      "bite"
+    ],
+    "habitats": [
+      "desert"
+    ],
+    "adaptations": [
+      "desert_adapted",
+      "heat_tolerant"
+    ],
+    "combat_attributes": {
+      "size": 73.5,
+      "strength": 55.0,
+      "speed": 60.3,
+      "agility": 35.0,
+      "defense": 58.0,
+      "weapon": 42.0,
+      "endurance": 88.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  },
+  {
+    "id": "fennec_fox",
+    "common_name": "Fennec Fox",
+    "scientific_name": "Vulpes zerda",
+    "category": "mammal",
+    "diet": "omnivore",
+    "fighting_style": "agile_striker",
+    "description": "Smallest canid; specialized ears and kidneys for extreme desert heat, not built for combat.",
+    "avg_weight_kg": 1.2,
+    "max_weight_kg": 1.9,
+    "avg_length_m": 0.4,
+    "top_speed_kmh": 32,
+    "bite_force_psi": null,
+    "natural_weapons": [
+      "bite"
+    ],
+    "habitats": [
+      "desert"
+    ],
+    "adaptations": [
+      "desert_adapted",
+      "heat_tolerant"
+    ],
+    "combat_attributes": {
+      "size": 11.1,
+      "strength": 8.0,
+      "speed": 31.2,
+      "agility": 55.0,
+      "defense": 12.0,
+      "weapon": 15.0,
+      "endurance": 45.0
+    },
+    "attribute_sources": {
+      "size": "derived",
+      "strength": "estimated",
+      "speed": "derived",
+      "agility": "estimated",
+      "defense": "estimated",
+      "weapon": "estimated",
+      "endurance": "estimated"
+    }
+  }
+]

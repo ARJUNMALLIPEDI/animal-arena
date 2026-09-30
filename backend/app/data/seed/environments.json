@@ -1,0 +1,66 @@
+[
+  {
+    "id": "savanna",
+    "name": "Savanna",
+    "tags": [
+      "warm",
+      "open_terrain"
+    ],
+    "description": "Open grassland with scattered trees; favors plains-adapted stamina and pack coordination."
+  },
+  {
+    "id": "forest",
+    "name": "Forest",
+    "tags": [
+      "temperate",
+      "dense_terrain"
+    ],
+    "description": "Dense cover rewards camouflage, ambush tactics, and climbing ability."
+  },
+  {
+    "id": "desert",
+    "name": "Desert",
+    "tags": [
+      "hot",
+      "arid"
+    ],
+    "description": "Extreme heat and open sand favor heat-tolerant, water-efficient animals."
+  },
+  {
+    "id": "arctic",
+    "name": "Arctic",
+    "tags": [
+      "cold",
+      "snow"
+    ],
+    "description": "Sub-zero cold and snow/ice footing favor cold-resistant, insulated animals."
+  },
+  {
+    "id": "ocean",
+    "name": "Ocean",
+    "tags": [
+      "aquatic",
+      "open_water"
+    ],
+    "description": "Fully aquatic environment; land animals are severely disadvantaged."
+  },
+  {
+    "id": "mountain",
+    "name": "Mountain",
+    "tags": [
+      "cold",
+      "steep_terrain"
+    ],
+    "description": "Steep, rocky, thin-air terrain favors sure-footed, agile climbers."
+  },
+  {
+    "id": "open_plains",
+    "name": "Open Plains",
+    "tags": [
+      "warm",
+      "open_terrain",
+      "flat"
+    ],
+    "description": "Flat, exposed terrain with nowhere to hide; favors speed and pursuit endurance."
+  }
+]

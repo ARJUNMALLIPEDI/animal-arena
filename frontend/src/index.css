@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Bebas Neue", "Oswald", system-ui, sans-serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+
+  --color-arena-bg: #0a0a0f;
+  --color-arena-panel: #14141c;
+  --color-arena-panel-light: #1c1c27;
+  --color-arena-border: #2a2a38;
+  --color-arena-ember: #ff5a2e;
+  --color-arena-ember-dark: #b8391a;
+  --color-arena-gold: #f2c14e;
+  --color-corner-a: #3ea6ff;
+  --color-corner-a-dim: #1c4f7a;
+  --color-corner-b: #ff4d6d;
+  --color-corner-b-dim: #7a2130;
+  --color-arena-text: #e8e6f0;
+  --color-arena-muted: #8b8899;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background-color: var(--color-arena-bg);
+  color: var(--color-arena-text);
+  font-family: var(--font-sans);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(255, 90, 46, 0.12), transparent),
+    radial-gradient(ellipse 60% 40% at 90% 10%, rgba(62, 166, 255, 0.08), transparent);
+  background-attachment: fixed;
+}
+
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: 0.02em;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-arena-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-arena-border);
+  border-radius: 6px;
+}
+
+.text-glow-ember {
+  text-shadow: 0 0 20px rgba(255, 90, 46, 0.5);
+}
+
+.bg-grid {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
